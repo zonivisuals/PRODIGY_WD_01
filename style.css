@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: poppins;
+}
+
+body{
+    overflow-y: scroll;
+}
+
+.hero{
+    height: 2000px;
+    color: rgb(0, 57, 131)
+}
+
+ul{
+    position: fixed;
+    width: 100%;
+    margin:0px;
+    list-style: none;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    gap: 20px;
+    background-color: rgb(89, 0, 131);
+    padding: 15px 10px;
+    transition: background-color 0.3s ease;
+}
+
+ul a{
+    text-decoration: none;
+    border: 0px solid white;
+    padding: 7px 13px;
+    border-radius: 10px;
+    color: white;
+    transition: background-color 0.3s, font-size 0.3s;
+}
+
+
+ul a:active{
+    color: rgba(90, 0, 131, 0.541);
+    background-color: rgba(90, 0, 131, 0.808);
+}
