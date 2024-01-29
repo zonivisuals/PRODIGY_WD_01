@@ -12,4 +12,4 @@ A responsive and interactive navigation menu template with styling. This project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zonivisuals/interactive-navigation-menu.git
+   git clone https://github.com/zonivisuals/PRODIGY_WD_01
